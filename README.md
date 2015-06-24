@@ -5,4 +5,4 @@ Some practical examples of visualization in R language
 
 2) ggplot of simple box plot or histogram
 
-3) More to come 
+3) World at night
