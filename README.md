@@ -5,4 +5,4 @@ Some practical examples of visualization in R language
 
 2) ggplot of simple box plot or histogram
 
-3) World at night
+3) World - Mapping international flight routes on a fancy world map. (Data used are from link: http://www.naturalearthdata.com/ and http://openflights.org/
